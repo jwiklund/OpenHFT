@@ -27,8 +27,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>third-party-bom</module>
         <module>root-parent-pom</module>
+        <module>third-party-bom</module>
         <module>java-parent-pom</module>
 
         <module>chronicle-bom</module>
